@@ -1,7 +1,5 @@
 # Scholarship Eligibility Predictor
 
-**Live Demo** : file:///C:/Users/dilip/OneDrive/Desktop/Scholarship-eligibility-prediction/index%20(1).html
-
 A machine-learning-powered web application that predicts whether a student is eligible for a scholarship, based on academic performance, financial need, reservation category, location, and age. The system combines a Random Forest classifier with a rule-based scoring engine and per-prediction explainability (SHAP-style feature contributions).
 
 ## Features
